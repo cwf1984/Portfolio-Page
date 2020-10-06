@@ -1,0 +1,91 @@
+img {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 15px;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    line-height: 1.5;
+    color: #FFFAF0;
+}
+
+#my-name {
+    width: 50%;
+    text-align: left;
+    float: left;
+    background-color: #B22222;
+    color: white;
+}
+
+#links {
+    width: 50%;
+    height: 68px;
+    float: left;
+    color: #FFFAF0;
+    font-size: 20pt;
+    text-align: right;
+    background-color: #B22222;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 8px;
+}
+
+a {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+#first {
+    margin: 8px;
+}
+
+#about-me {
+    background-color: #FFEFD5;
+    width: 85%;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    float: left;
+    text-align: justify;
+    padding: 8px;
+}
+
+#projects {
+    background-color: #FFEFD5;
+    width: 85%;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    float: left;
+    text-align: justify;
+    padding: 8px;
+}
+
+.content {
+    width: 1024px;
+}
+
+.sidebar {
+    clear: both;
+    font-family: 'Montserrat', sans-serif;
+    overflow: auto;
+    width: 10%;
+    float: left;
+    margin: 0 auto;
+    padding: auto;
+    font-size: 30px;
+    border-right: 3px solid #696969;
+    
+}
+
+body {
+    background-color: #FFFFF0;
+}
+
+
+
+#contact-info {
+    float: left;
+}
+
+
+
